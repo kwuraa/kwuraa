@@ -4,7 +4,7 @@
 
 
 <div aling="start">
-<h3> Minhas Tecnologias</h3
+<h3>Tecnologias</h3
                          <!-- Todos icons da tecnologias -->
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,cs,react,typescript,git" />
