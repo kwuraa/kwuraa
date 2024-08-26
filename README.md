@@ -6,7 +6,11 @@
 <br><br>
 
 <code>
-// This is a comment
+
+### Sobre
+
+Estudante de Engenharia da Computação, atualmente focando meus estudos em FullStack!
+
 </code>
 
 <br><br>
