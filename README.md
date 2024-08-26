@@ -6,12 +6,11 @@
 <br><br>
 
 <pre>
-
-
-
+<br><br>
 
 Estudante de Engenharia da Computação, atualmente focando meus estudos em FullStack!
 
+<br><br>
 </pre>
 
 <br><br>
