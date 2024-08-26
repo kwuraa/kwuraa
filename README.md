@@ -7,7 +7,8 @@
 
 <pre>
 
-### Sobre
+
+
 
 Estudante de Engenharia da Computação, atualmente focando meus estudos em FullStack!
 
