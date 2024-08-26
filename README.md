@@ -12,6 +12,10 @@
 <div>
 <img src="https://skillicons.dev/icons?i=typescript,react,cs" />
 </div>
+<div>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</div>
+
 
 
 
