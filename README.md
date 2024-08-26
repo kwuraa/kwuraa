@@ -4,10 +4,10 @@
 
 
 <div aling="start">
-<h3>Tecnologias</h3
-                         <!-- Todos icons da tecnologias -->
+<h3>Technologies - (aprendendo)</h3
+                         <!-- Todos icons das tecnologias -->
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,react,typescript,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,cs,git" />
 </div><br>
 
 
