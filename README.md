@@ -8,12 +8,10 @@
 <pre>
 <br><br>
 
-Estudante de Engenharia da Computação, atualmente focando meus estudos em FullStack!
+Estudante de Engenharia da Computação, atualmente focando meus estudos em FullStack Developer!
 
 <br><br>
 </pre>
-
-<br><br>
 
   <h3>Technologies - (Estudando...)</h3>
     <div>
