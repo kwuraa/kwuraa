@@ -6,11 +6,11 @@
 <br><br>
 
 <pre>
-<br><br>
+<br>
 
-Estudante de Engenharia da Computação, atualmente focando meus estudos em FullStack Developer!
+Estudante de Engenharia da Computação, atualmente focando meus estudos em FullStack Developer! 💻🌎
 
-<br><br>
+<br>
 </pre>
 
   <h3>Technologies - (Estudando...)</h3>
