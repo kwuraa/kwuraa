@@ -2,7 +2,7 @@
   <img src="assets/ola!.gif">
 </div>
 
-<div aling="start">
+<div aling="center">
 <h3>Technologies - (Estudando...);</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
