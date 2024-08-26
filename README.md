@@ -8,7 +8,7 @@
                          <!-- Todos icons das tecnologias -->
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
-</div><br>
+</div>
 <div>
 <img src="https://skillicons.dev/icons?i=typescript,react,cs" />
 </div>
