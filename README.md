@@ -4,11 +4,10 @@
   <img src="assets/ola!.gif">
 </div>
 <br><br>
-<pre>
+
 <code>
 // This is a comment
 </code>
-</pre>
 
 <br><br>
 
