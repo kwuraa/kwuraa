@@ -10,7 +10,7 @@
 
 - Meu nome é Matheus Morais Kawamura, 
 - Estudante de Engenharia da Computação, 
-- Atualmente o foco dos meus estudos em FullStack Developer! 💻🌎
+- Atualmente o focando os estudos em FullStack Developer! 💻🌎
 
 <br>
 </pre>
