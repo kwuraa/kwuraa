@@ -2,7 +2,7 @@
   <img src="assets/ola!.gif">
 </div>
 
-<div aling="center">
+<div align="center">
 
   <h3>Technologies - (Estudando...)</h3>
     <div>
