@@ -1,8 +1,16 @@
+<div align="center">
+
 <div>
   <img src="assets/ola!.gif">
 </div>
+<br><br>
+<pre>
+<code>
+// This is a comment
+</code>
+</pre>
 
-<div align="center">
+<br><br>
 
   <h3>Technologies - (Estudando...)</h3>
     <div>
@@ -14,4 +22,6 @@
     <div>
       <img src="https://skillicons.dev/icons?i=dotnet,react" />
     </div>
+    <br><br>
+    
 </div>
