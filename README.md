@@ -1,10 +1,9 @@
-
 <div aling="center">
-  <img src="Gif.gif">
+  <img src="assets/ola!.gif">
 </div>
 
 <div aling="start">
-<h3>Technologies - (Estudando...);</h3
+<h3>Technologies - (Estudando...);</h3>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </div>
@@ -15,9 +14,4 @@
   <img src="https://skillicons.dev/icons?i=dotnet,react" />
 </div>
 
-
-
-
-  
 </div>
-
