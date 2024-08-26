@@ -8,9 +8,9 @@
 <pre>
 <br>
 
-Meu nome é Matheus Morais Kawamura, 
-Estudante de Engenharia da Computação, 
-atualmente focando meus estudos em FullStack Developer! 💻🌎
+- Meu nome é Matheus Morais Kawamura, 
+- Estudante de Engenharia da Computação, 
+atualmente o foco dos meus estudos em FullStack Developer! 💻🌎
 
 <br>
 </pre>
