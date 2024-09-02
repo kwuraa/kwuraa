@@ -4,7 +4,7 @@
   <img src="assets/ola!.gif">
 </div>
 <br><br>
-
+  </div>
 <pre>
 <br>
 
@@ -26,7 +26,7 @@
       <img src="https://skillicons.dev/icons?i=dotnet,react,git" />
     </div>
     <br><br>
-  </div>
+
 
 
 
