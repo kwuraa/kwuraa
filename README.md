@@ -8,13 +8,6 @@
 <pre>
 <br>
 
-
-  <br clear="both">
-    <div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwuraa&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-
 - Meu nome é Matheus Morais Kawamura, 
 - Estudante de Engenharia da Computação, 
 - Atualmente focando os estudos em FullStack Developer! 💻🌎
@@ -41,7 +34,10 @@
 <div align="left">
   <a href="https://open.spotify.com/user/ihdyo37jpk1zfrlgdnj06mni6">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=ihdyo37jpk1zfrlgdnj06mni6&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
+	</a>
+    <div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kwuraa&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
 </div>
 
 ###
