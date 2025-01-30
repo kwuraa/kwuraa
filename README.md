@@ -20,7 +20,7 @@
       <img src="https://skillicons.dev/icons?i=html,css,js" />
     </div>
     <div>
-      <img src="https://skillicons.dev/icons?i=typescript,php,cs" />
+      <img src="https://skillicons.dev/icons?i=typescript,php,cs,electron" />
     </div>
     <div>
       <img src="https://skillicons.dev/icons?i=dotnet,react,git,mongo,docker,mysql" />
