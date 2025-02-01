@@ -9,21 +9,24 @@
 <br>
 
 - Meu nome é Matheus Morais Kawamura, 
-- Estudante de Engenharia da Computação, 
+- Estudante de Engenharia da Computação,
+- Mais experiências com tecnologias de Front End,
 - Atualmente focando os estudos em FullStack Developer! 💻🌎
 
 <br>
 </pre>
 
-  <h3>Technologies - (Estudando...)</h3>
+  <h3>Technologies ... </h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=html,css,js" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,php,git" />
     </div>
+    <h3>Estudando ... </h3> 
     <div>
-      <img src="https://skillicons.dev/icons?i=typescript,php,cs,electron" />
+      <img src="https://skillicons.dev/icons?i=,typescript,cs,electron" />
     </div>
+    <h3>Poucas Experiências ... </h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=dotnet,react,git,mongo,docker,mysql" />
+      <img src="https://skillicons.dev/icons?i=dotnet,react,,mongo,docker,mysql" />
     </div>
     <br><br>
 
