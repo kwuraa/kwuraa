@@ -1,13 +1,8 @@
 <div align="center">
-
-<div>
-  <img src="assets/ola!.gif">
-</div>
-<br><br>
  
 <pre>
 <br>
-
+- Olá,
 - Meu nome é Matheus Morais Kawamura, 
 - Estudante de Engenharia da Computação,
 - Mais experiências com tecnologias de Front End,
