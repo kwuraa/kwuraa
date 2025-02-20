@@ -26,13 +26,7 @@
     </div>
     <br><br>
 
-<table>
-<td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwuraa&hide_border=true&layout=compact" align="left" style="width: 100%, background-color: transparent;" />
-
-</td></tr></table>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwuraa&hide_border=true&layout=compact" align="center" /></div>
  </div>
 
 
