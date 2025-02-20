@@ -18,7 +18,7 @@
     </div>
     <h3>Estudando ... </h3> 
     <div>
-      <img src="https://skillicons.dev/icons?i=typescript,cs,electron" />
+      <img src="https://skillicons.dev/icons?i=typescript,nodejs,cs,electron" />
     </div>
     <h3>Poucas Experiências ... </h3>
     <div>
