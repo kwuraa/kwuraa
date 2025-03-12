@@ -18,11 +18,11 @@
     </div>
     <h3>Estudando ... </h3> 
     <div>
-      <img src="https://skillicons.dev/icons?i=typescript,nodejs,cs,electron" />
+      <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,electron" />
     </div>
     <h3>Poucas Experiências ... </h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=dotnet,react,mongo,docker,mysql" />
+      <img src="https://skillicons.dev/icons?i=dotnet,cs,mongo,docker,mysql" />
     </div>
     <br><br>
 
