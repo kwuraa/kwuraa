@@ -16,7 +16,7 @@
     <div>
       <img src="https://skillicons.dev/icons?i=html,css,js,php,git" />
     </div>
-    <h3>Estudando ... </h3> 
+    <!-- <h3>Estudando ... </h3> 
     <div>
       <img src="https://skillicons.dev/icons?i=typescript,nodejs,react,electron" />
     </div>
@@ -24,7 +24,7 @@
     <div>
       <img src="https://skillicons.dev/icons?i=dotnet,cs,mongo,docker,mysql" />
     </div>
-    <br><br>
+    <br><br> -->
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kwuraa&theme=dark&hide_border=true&layout=compact" align="center" /></div>
  </div>
