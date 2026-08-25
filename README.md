@@ -1,16 +1,15 @@
+# 💻 Hi, I'm Matheus Kawamura
+
+```bash
+kawamura@github:~$ ./welcome.sh
+> Full Stack Developer Freelancer
+> Transforming ideas into scalable, high-performance web products.
+```
+
 <div align="center">
 <br><br>
  
-<pre>
-<br>
-- Olá,
-- Meu nome é Matheus Morais Kawamura, 
-- Estudante de Engenharia da Computação,
-- Mais experiências com tecnologias de Front End,
-- Atualmente focando os estudos em FullStack Developer! 💻🌎
 
-<br>
-</pre>
 
   <h3>Technologies ... </h3>
     <div>
